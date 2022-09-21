@@ -1,0 +1,35 @@
+body {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+h1 {
+  letter-spacing: 0.2rem;
+  text-align: center;
+}
+
+h2 {
+  color: limegreen;
+}
+
+#h1green {
+  color: darkgreen;
+}
+
+#h1brown {
+  color: peru;
+}
+
+#container {
+  border: 1px solid gray;
+  background: transparent;
+  position: absolute;
+}
+
+hr {
+  width: 98%;
+}
+
+h3 {
+  color: peru;
+}
